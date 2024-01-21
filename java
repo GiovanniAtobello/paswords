@@ -39,7 +39,7 @@ function checkCredentials() {
       alert('Login successful!');
       // Redirect or perform other actions upon successful login
     } else {
-      alert('Invalid username or password.');
+      alert('Invalid username or password. Please try again.');
     }
   });
 }
